@@ -1,0 +1,6 @@
+{
+  "name": "TodoFP Chatbot",
+  "description": "Asistente inteligente para jóvenes sobre Formación Profesional en España, basado en todofp.es",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
